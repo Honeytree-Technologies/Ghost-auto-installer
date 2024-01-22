@@ -3,6 +3,11 @@ Automate your Ghost installation using this deployment script powered by Docker 
 
 Whether you're working with a fresh server or an existing setup, this script is designed for both new and veteran Ghost admins.
 
+
+# About Ghost
+
+Ghost is a free and open source independent technology suite for modern publishing, memberships, subscriptions and newsletters.
+
 ## Features
 
 - 🚀 One-command deployment.
